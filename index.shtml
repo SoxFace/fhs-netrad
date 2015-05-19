@@ -134,14 +134,72 @@
             </div>
             <div class="col-md-6">
                 <h3>Brain Supine:</h3>
-                <ul>
-                    <li><strong>AIM:</strong> Cranial CT is an accurate test to delineate brain structures and can identify brain matter, arteries, veins, cerebrospinal fluid filled ventricles and the bony architecture of the skull.
-                    </li>
-                    <li><strong>RATIONALE: </strong>In order to prevent unnecessary irradiation of the orbits and especially the lenses, Head CTs are performed at an angle parallel to the base of the skull. Slice thickness may vary, but in general, it is between 5 and 10 mm for a routine Head CT. Intravenous contrast is not routinely used, but may be useful for evaluation of tumors, cerebral infections, and in some cases for the evaluation of stroke patients. Accurate identification of conditions involving the cranium such as brain tumours; arteriovenous malformations; intracranial bleeding (including subarachnoid, intracerebral, extradural and subdural haemorrhage) and bone disruption and fracture following trauma. It can also be useful to identify embolic or haemorrhagic causes of stroke, certain infections such as encephalitis and degenerative signs of ageing.</li>
-                    <li><strong>EQUIPMENT: </strong>CT scan of the head is performed in the radiology department scanning room, with the patient lying flat (supine) on a CT table. The head is placed in a comfortable ‘docking pillow’ and the specialised CT scanner rotates in a gantry above the patients head.</li>
-                    <li><strong>KEY POINTS: </strong>Ensure patient comfort at all times.</li>
-                    <li><strong>SOURCE: </strong><a href="http://healthengine.com.au/info/Head_CT_Scan"></a>http://healthengine.com.au/info/Head_CT_Scan</li>
-                </ul>
+                <div class="panel-group" id="accordion">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">AIM:</a>
+                            </h4>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Cranial CT is an accurate test to delineate brain structures and can identify brain matter, arteries, veins, cerebrospinal fluid filled ventricles and the bony architecture of the skull.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">RATIONALE:</a>
+                            </h4>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                In order to prevent unnecessary irradiation of the orbits and especially the lenses, Head CTs are performed at an angle parallel to the base of the skull. Slice thickness may vary, but in general, it is between 5 and 10 mm for a routine Head CT. Intravenous contrast is not routinely used, but may be useful for evaluation of tumors, cerebral infections, and in some cases for the evaluation of stroke patients. Accurate identification of conditions involving the cranium such as brain tumours; arteriovenous malformations; intracranial bleeding (including subarachnoid, intracerebral, extradural and subdural haemorrhage) and bone disruption and fracture following trauma. It can also be useful to identify embolic or haemorrhagic causes of stroke, certain infections such as encephalitis and degenerative signs of ageing.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">EQUIPMENT:</a>
+                            </h4>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                CT scan of the head is performed in the radiology department scanning room, with the patient lying flat (supine) on a CT table. The head is placed in a comfortable ‘docking pillow’ and the specialised CT scanner rotates in a gantry above the patients head.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">KEY POINTS:</a>
+                            </h4>
+                        </div>
+                        <div id="collapseFour" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                Ensure patient comfort at all times.
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.panel -->
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">
+                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFive">SOURCE:</a>
+                            </h4>
+                        </div>
+                        <div id="collapseFive" class="panel-collapse collapse">
+                            <div class="panel-body">
+                                <a href="http://healthengine.com.au/info/Head_CT_Scan" target="blank">http://healthengine.com.au/info/Head_CT_Scan</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="col-md-6">
                 <iframe src="http://player.vimeo.com/video/86362587?title=0&amp;byline=0&amp;portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
